@@ -197,7 +197,11 @@ img {
     margin-top: 10%;
   }
 
-  
+  .contact h1 {
+
+    margin-left: auto;
+  }
+
 }
 
    #card-2 {
