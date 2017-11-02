@@ -192,8 +192,12 @@ img {
 
   .about {
     max-width: 35%;
-    display: block;
+    display: inline-block;
+    margin-left: 30%;
+    margin-top: 10%;
   }
+
+  
 }
 
    #card-2 {
