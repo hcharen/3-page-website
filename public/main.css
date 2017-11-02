@@ -18,7 +18,7 @@
 
 }
 .card {
-  display: none;
+  width: 50%;
 
 
 }
@@ -36,6 +36,7 @@
 
   }
 }
+
 
 @media screen and (max-width: 992px) {
   .container {
@@ -104,7 +105,7 @@ body {
 }
 
 @media screen and (max-width: 480px) {
-  .nav-header .btn {
+  .nav-header .btn  {
     display: none;
   }
 
@@ -187,6 +188,13 @@ img {
     max-width: 100%;
     max-height: 100%;
 }
+@media screen and (max-width: 480px) {
+
+  .about {
+    max-width: 35%;
+    display: block;
+  }
+}
 
    #card-2 {
      margin: 0 50px;
@@ -211,5 +219,3 @@ img {
      text-decoration: none;
      color: blue;
 }
-
-/* CONTACT ME STYLING */
