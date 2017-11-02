@@ -1,13 +1,53 @@
 @media screen and (max-width: 480px) {
+.h1 {
 
+}
+.h2 {
+
+}
+.btn-group {
+
+}
+.nav-header {
+
+}
+.container {
+
+}
+.about{
+
+}
+.card {
+  display: none;
+
+
+}
 }
 
 @media screen and (max-width: 768px) {
+  .container {
 
+  }
+  .about{
+
+  }
+  .card {
+    display: block;
+
+  }
 }
 
 @media screen and (max-width: 992px) {
+  .container {
 
+  }
+  .about{
+
+  }
+  .card {
+    display: inline-block;
+
+  }
 }
 body {
 
